@@ -6,4 +6,10 @@
 <h2>1. 컴공 이론을 위한 기초체력 다지기<h2/>
     <a href="https://stbhg5.tistory.com/997">1비트와 디지털</a><br/>
     <a href=""></a><br/>
+    <a href=""></a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
     <br/><br/>
