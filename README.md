@@ -7,6 +7,7 @@
     <a href="https://stbhg5.tistory.com/997">1비트와 디지털</a><br/>
     <a href="https://stbhg5.tistory.com/1000">4비트와 16진수 그리고 진법변환</a><br/>
     <a href="https://stbhg5.tistory.com/1004">16진수 표기가 사용되는 예</a><br/>
+    <a href="https://stbhg5.tistory.com/1007">외워야 할 단위 체계와 숫자</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
