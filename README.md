@@ -9,6 +9,11 @@
     <a href="https://stbhg5.tistory.com/1004">16진수 표기가 사용되는 예</a><br/>
     <a href="https://stbhg5.tistory.com/1007">외워야 할 단위 체계와 숫자</a><br/>
     <a href="https://stbhg5.tistory.com/1015">컴퓨터가 글자를 다루는 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/1018">컴퓨터가 사진을 다루는 방법</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
