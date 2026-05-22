@@ -12,8 +12,8 @@
     <a href="https://stbhg5.tistory.com/1018">컴퓨터가 사진을 다루는 방법</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>2. 넓고 얕은 컴퓨터 구조<h2/>
+    <a href="https://stbhg5.tistory.com/1022">디지털 회로와 덧셈 (CPU 자작도 가능!)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
