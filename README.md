@@ -16,6 +16,7 @@
     <a href="https://stbhg5.tistory.com/1022">디지털 회로와 덧셈 (CPU 자작도 가능!)</a><br/>
     <a href="https://stbhg5.tistory.com/1025">컴퓨터가 뺄셈하는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1028">CPU가 곱하고 나누는 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/1031">컴퓨터가 연산하는 과정</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
