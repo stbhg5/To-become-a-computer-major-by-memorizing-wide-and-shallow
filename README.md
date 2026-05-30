@@ -18,6 +18,11 @@
     <a href="https://stbhg5.tistory.com/1028">CPU가 곱하고 나누는 방법</a><br/>
     <a href="https://stbhg5.tistory.com/1031">컴퓨터가 연산하는 과정</a><br/>
     <a href="https://stbhg5.tistory.com/1034">컴퓨터가 기억공간을 관리하는 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/1041">HDD, SSD와 파일 시스템</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
