@@ -21,8 +21,9 @@
     <a href="https://stbhg5.tistory.com/1041">HDD, SSD와 파일 시스템</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>3. 넓고 얕은 운영체제<h2/>
+    <a href="https://stbhg5.tistory.com/1043">동시성과 병렬성</a><br/>
+    <a href="https://stbhg5.tistory.com/1044">원자성, 동기화 그리고 교착상태</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
