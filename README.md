@@ -24,6 +24,7 @@
 <h2>3. 넓고 얕은 운영체제<h2/>
     <a href="https://stbhg5.tistory.com/1043">동시성과 병렬성</a><br/>
     <a href="https://stbhg5.tistory.com/1044">원자성, 동기화 그리고 교착상태</a><br/>
+    <a href="https://stbhg5.tistory.com/1048">컴퓨터의 구성요소와 아바타</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
