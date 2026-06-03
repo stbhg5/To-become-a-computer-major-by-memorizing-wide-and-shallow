@@ -26,6 +26,7 @@
     <a href="https://stbhg5.tistory.com/1044">원자성, 동기화 그리고 교착상태</a><br/>
     <a href="https://stbhg5.tistory.com/1048">컴퓨터의 구성요소와 아바타</a><br/>
     <a href="https://stbhg5.tistory.com/1051">국가와 국민으로 이해하는 컴퓨터 세상</a><br/>
+    <a href="https://stbhg5.tistory.com/1054">User mode와 Kernel mode 그리고 가상화까지!</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
