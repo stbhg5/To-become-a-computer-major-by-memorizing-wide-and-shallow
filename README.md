@@ -30,8 +30,8 @@
     <a href="https://stbhg5.tistory.com/1057">가상 메모리 소개</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>4. 프로그래밍 맛보기<h2/>
+    <a href="https://stbhg5.tistory.com/1060">프로그래밍의 다른 이름 절차적 글쓰기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
