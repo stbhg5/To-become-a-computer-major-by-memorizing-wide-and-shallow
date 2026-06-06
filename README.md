@@ -32,6 +32,8 @@
 
 <h2>4. 프로그래밍 맛보기<h2/>
     <a href="https://stbhg5.tistory.com/1060">프로그래밍의 다른 이름 절차적 글쓰기</a><br/>
+    <a href="https://stbhg5.tistory.com/1063">가장 큰 수 찾기 #1</a><br/>
+    <a href="https://stbhg5.tistory.com/1064">가장 큰 수 찾기 #2</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
