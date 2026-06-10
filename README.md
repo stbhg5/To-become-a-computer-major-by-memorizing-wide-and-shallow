@@ -36,6 +36,7 @@
     <a href="https://stbhg5.tistory.com/1064">가장 큰 수 찾기 #2</a><br/>
     <a href="https://stbhg5.tistory.com/1068">일단 써놓고 규칙을 찾자</a><br/>
     <a href="https://stbhg5.tistory.com/1071">컴파일과 고급어 저급어</a><br/>
+    <a href="https://stbhg5.tistory.com/1075">인터프리터</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
