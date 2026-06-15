@@ -40,7 +40,7 @@
     <a href="https://stbhg5.tistory.com/1076">API와 SDK</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>5. 자료구조 소개와 마무리<h2/>
+    <a href="https://stbhg5.tistory.com/1083">자료를 정리하는 이유</a><br/>
     <a href=""></a><br/>
     <br/><br/>
