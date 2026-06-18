@@ -43,5 +43,5 @@
 <h2>5. 자료구조 소개와 마무리<h2/>
     <a href="https://stbhg5.tistory.com/1083">자료를 정리하는 이유</a><br/>
     <a href="https://stbhg5.tistory.com/1086">선형 자료구조 Stack과 Queue</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1088">비선형 자료구조 2진 트리</a><br/>
     <br/><br/>
